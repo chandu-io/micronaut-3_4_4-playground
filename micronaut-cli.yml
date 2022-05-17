@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: io.c6
+testFramework: junit
+sourceLanguage: java
+buildTool: gradle
+features: [annotation-api, app-name, data, data-jpa, graalvm, gradle, h2, hibernate-validator, http-client, jackson-databind, java, java-application, jdbc-hikari, junit, log4j2, micronaut-aot, micronaut-build, netty-server, properties, readme, shade]
